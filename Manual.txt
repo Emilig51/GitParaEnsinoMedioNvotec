@@ -1,0 +1,17 @@
+Primeiro passo no git
+
+Primeiro, criamos no github um repositoriocom o nome GitParaEnsinoMedioNvotec
+
+-Seguinte, fizemos um git clone de repositorio para nossa GitParaEnsinoMedioNvotec
+
+-Criamos um Arquivo chamado manual.txt
+
+-Fizemos o Commit e finalmente um push na Master 
+
+Mostramos os códigos seguios:
+git clone (url do repositorio)
+git status 
+igt add . 
+git commit -m "Digitamos um texto que possa descrever o que a gente fez"
+git status
+git push (precisaremos depois deste passo passar nosso usuario e senha)
